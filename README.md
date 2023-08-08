@@ -1,6 +1,6 @@
 <img src="./assets/logo.png" width="100" height="100">
 
-# VatchexGreece
+# Greeklix
 
 An Elixir library for converting Greek text to [Greeklish](https://en.wikipedia.org/wiki/Greeklish).
 
