@@ -43,6 +43,12 @@ Any grapheme not in the substitution rules will be left unchanged. Use `Greeklix
 
 The docs can be found at <https://hexdocs.pm/greeklix>.
 
+## Donate
+
+Has this library been useful for your project? 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V119L07A)
+
 
 ## Credits
 
